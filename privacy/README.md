@@ -14,4 +14,4 @@ Our Tic Tac Toe app complies with the terms and conditions of Google Play Store 
 
 Please note that this privacy policy statement may be updated from time to time. We will notify our users of any changes by posting the revised privacy policy statement on our website or within the app.
 
-If you have any questions or concerns about our privacy policy, please contact us at mobile.app.development@outlook.com.
+If you have any questions or concerns about our privacy policy, please contact us at felucius.app.developer@gmail.com.
